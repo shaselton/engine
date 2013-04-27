@@ -11,6 +11,6 @@
 #include "Constants.h"
 
 static int ENVIRONMENT = DEVELOPMENT;
-static char * BASE_PATH = "/Users/shaselton/Desktop/projects/c_programming/engine/engine/engine/";
+static char * BASE_PATH = "engine/engine/engine/";
 
 #endif
